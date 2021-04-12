@@ -1,4 +1,4 @@
-public class HandleMessage {
+public class Message {
 
         private String userId;
         private String password;
